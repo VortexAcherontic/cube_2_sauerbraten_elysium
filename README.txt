@@ -3,7 +3,7 @@ e-mail: vortex@z-ray-entertainment.de
 YouTube:
 Entertainment Channel: https://www.youtube.com/user/ZRayEntertainment
 Lets Play Channel: https://www.youtube.com/channel/UCp5aqLRnZy15vyOoG9SuCgg
-website: http://z-ray-entertainment.de
+website: http://z-ray.de
 Blendswap: http://www.blendswap.com/user/VortexAcherontic
 Googledrive: https://drive.google.com/drive/folders/0B2jPr5tVLSq1bnQ2R3BEbWFxTVk
 Tutorial: https://www.youtube.com/playlist?list=PLa7GwLxqmpMQxctLimUXyH1wQOcoMDrdq (German)
@@ -15,13 +15,12 @@ The Map is also entirely designd by me, also the sound recordings for NPC voice 
 You're alowed, to use, modify and share all of my content as long as you name me as the original author
 in your modification or where else you use the sounds, models, textures.
 Also the scripts are compleatly writen by me, you free to use them as well :)
-But there is one absolute restriction: YOU are NOT allowed to make money out of this content.
 
-Original textures from: http:77textures.com
+Original textures from: http://textures.com
 Music by: Kevin Mach Leod http://incompetech.com
-Sound effekts: by various authors.
+Sound effects: by various authors.
 
-Thank you for reading this and maybe playing the Game :)
+Thank you for reading this and may playing the mod :)
 
 
 === Install ===
@@ -30,13 +29,14 @@ Thank you for reading this and maybe playing the Game :)
 2) launch the map by pressing t in game and write  /sp elysium_desert
 
 Example:
-Linux: /home/user/.sauerbraten/
-Windows: C:\Users\YourName\Documents\my games\Sauerbraten\
+Linux: /home/<user>/.sauerbraten/
+Windows: C:\Users\<user>\Documents\my games\Sauerbraten\
 
 === Music ===
 
 Music by Kevin MacLeod http://incompetech.com
 
+Clash Defiant
 Tenebrous Brothers Carnival - Act Three
 Expeditionary
 Desert City
@@ -45,11 +45,12 @@ Skye Cuillin
 Folk Round
 Angevin
 Pippin the Hunchback
-Angevin B
+Angevin 70
+Angevin 120 loop
 Heavy Heart
 Rynos Theme
 Lost Frontier
-The Lift
+The Lift hi
 Crypto
 Junkyard Tribe
 Severe Tire Damage
@@ -61,9 +62,17 @@ Ready Aim Fire
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
 
+=== 3D Models ===
+
+All 3D modles are made by me.
+You free to use, modify and distribute my work as long as you name me as the original author and include a link
+to my homepage (https://z-ray.de)
+
+For any other model there is a specific readme.txt within the coresponding folder.
+
 === Credits ===
 
-Voice Actors: Vortex Acherontic, Geillesia, Suroth
+Voice Actors: Vortex Acherontic, Geullesia, Suroth
 Modelling: Vortex Acherontic
 Textures: Vortex Acherontic
 Scripts: Vortex Acherontic
