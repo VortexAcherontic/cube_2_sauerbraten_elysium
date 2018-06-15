@@ -10,11 +10,9 @@ Tutorial: https://www.youtube.com/playlist?list=PLa7GwLxqmpMQxctLimUXyH1wQOcoMDr
 
 Disclaimer:
 
-All used 3d models (except of the default cube 2 models) are made by me, Vortex Acherontic.
-The Map is also entirely designd by me, also the sound recordings for NPC voice output.
-You're alowed, to use, modify and share all of my content as long as you name me as the original author
-in your modification or where else you use the sounds, models, textures.
-Also the scripts are compleatly writen by me, you free to use them as well :)
+The whole software and all assets are released under the GPL v3.
+
+Except of all Sound files and the music which is lisenced under CC BY 3.0.
 
 Original textures from: http://textures.com
 Music by: Kevin Mach Leod http://incompetech.com
